@@ -3,7 +3,7 @@
   License: MIT ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   https://opensource.org/licenses/MIT
 
-
+![team-portfolio-dashboard](https://user-images.githubusercontent.com/32348687/152692093-f1e436a7-8cf6-4951-be33-c2280a4f9ac5.PNG)
   
   ## Table of Contents
   - [Description](#description)
@@ -21,7 +21,7 @@
   This application also requires a file system and inquirer module. If testing is required, this application uses Jest.
   
   ## Usage 
-  You will need to use the terminal to run Node Index and answer the questions. Please use the following link for a demonstration on how to use:
+  You will need to use the terminal to run Node Index and answer the questions. Please use the following link for a demonstration on how to use: https://user-images.githubusercontent.com/32348687/152692162-75044c2d-02ea-4c60-8989-b6711d362581.mp4
   
   ## License 
   This project is license under MIT
